@@ -10,6 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>This is Pointsville India Team. </p>
+        <p>Smit, Shubham, Prem </p>
         <a
           className="App-link"
           href="https://reactjs.org"
